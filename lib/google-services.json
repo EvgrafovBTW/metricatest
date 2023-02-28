@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266661235826",
+    "project_id": "metrica-83a78",
+    "storage_bucket": "metrica-83a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266661235826:android:eceb8cf797822416ed86eb",
+        "android_client_info": {
+          "package_name": "com.metrica.ru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266661235826-v8g0vp71c6q68tgh9ff3mlvro9sdp4id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWcP-tZTbdL83YUn0uroGWXpHTEcruS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266661235826-v8g0vp71c6q68tgh9ff3mlvro9sdp4id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
